@@ -302,6 +302,9 @@ form .btn2{
     display: none;
    }
 @media only screen and (max-width:600px){
+     #header{
+        background-image: url(images/ark_mobile.png);
+    }
     .portfolio-text{
         font-size:20px;
     }
